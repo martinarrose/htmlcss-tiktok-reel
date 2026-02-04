@@ -96,6 +96,9 @@ da rimuovere una volta concluso
 .justify-center {
   justify-content: center;
 }
+.justify-around {
+  justify-content: space-around;
+}
 .flex-column {
   flex-direction: column;
 }
