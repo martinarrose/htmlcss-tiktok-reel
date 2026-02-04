@@ -67,6 +67,7 @@ da rimuovere una volta concluso
 .debug footer {
   min-height: 100px;
   border: 2px dashed #fff;
+  height: 100px;
 }
 
 .debug .sidebar {
@@ -92,6 +93,10 @@ da rimuovere una volta concluso
 .justify-between {
   justify-content: space-between;
 }
+.justify-center {
+  justify-content: center;
+}
+
 .padding-10 {
   padding: 10px;
 }
@@ -135,4 +140,23 @@ da rimuovere una volta concluso
 .bg-black {
   background-color: black;
 }
+.h-full {
+  height: 100%;
+}
+.white-box {
+  display: flex;
+  width: 40px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: #fff;
+  color: black;
+}
+
+/*.bi.bi-plus {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%); }s*/
+
+/* 
 /* --------------------- */
